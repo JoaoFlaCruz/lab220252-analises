@@ -40,7 +40,7 @@ disp(H_s);
 % Carrega os dados do arquivo 'cassio.txt'.
 % A função readtable é utilizada para ler o arquivo de forma estruturada.
 try
-    dados = readtable('cassio.txt', 'Delimiter', ' ', 'DecimalSeparator', ',');
+    dados = readtable('./torneira_eletrica/analises/cassio_dinamico2.txt', 'Delimiter', ' ', 'DecimalSeparator', ',');
 catch
     error('O arquivo cassio.txt não foi encontrado. Verifique o caminho.');
 end
@@ -108,3 +108,13 @@ xlabel('Tempo (s)');
 ylabel('Tensão (V)');
 legend('show');
 hold off;
+
+%% 5. Visualização do modelo dinâmico e do filtro
+
+fprintf('Função de Transferência do Filtro Passa-Baixas (em tempo contínuo):\n');
+disp(H_s);
+
+%% 6 . Visualiza a função de transferência do filtro em tempo discreto
+H_z = c2d(H_s, Ts, 'zoh');
+fprintf('Função de Transferência do Filtro Passa-Baixas (em tempo discreto):\n');
+disp(H_z);

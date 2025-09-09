@@ -1,0 +1,1 @@
+float filtro_digital(float k, float k_1, float k_2);
