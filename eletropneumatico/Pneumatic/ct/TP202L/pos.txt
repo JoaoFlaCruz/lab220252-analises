@@ -1,0 +1,2 @@
+DESCR TP 202 (Elektropneumatik Aufbaustufe, Logik)
+24 24 716 758 0.500000

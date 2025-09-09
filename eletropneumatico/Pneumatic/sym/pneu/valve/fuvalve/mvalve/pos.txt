@@ -1,0 +1,11 @@
+DESCR Mechanisch betätigt
+325 96 1068 1234 0.500000 0 1
+2 1 me2.ct
+3 1 me3.ct
+4 1 me1.ct
+5 1 me4.ct
+6 1 me5.ct
+7 1 me6.ct
+8 1 me7.ct
+9 1 me8.ct
+10 1 pvwm7.ct

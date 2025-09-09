@@ -1,0 +1,5 @@
+DESCR Schalter
+325 96 1068 1234 0.500000 0 0
+2 1 Manually
+3 1 General
+4 1 Proximit

@@ -1,0 +1,11 @@
+DESCR Druckventile
+1 -3 606 918 0.500000 0 1
+2 1 prv1.ct
+3 1 prv2.ct
+4 1 psf8b.ct
+5 1 psf8.ct
+6 1 sf8.ct
+7 1 ppc2.ct
+8 1 ppc.ct
+9 1 ppo2.ct
+10 1 pco.ct

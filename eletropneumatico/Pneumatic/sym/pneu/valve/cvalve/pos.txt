@@ -1,0 +1,8 @@
+DESCR Konfigurierbare Wegeventile
+325 96 1068 1234 0.500000 0 1
+2 1 cv2.ct
+3 1 cv3.ct
+4 1 cv4.ct
+5 1 cv5.ct
+6 1 cv6.ct
+7 1 cv8.ct

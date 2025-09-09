@@ -1,0 +1,17 @@
+DESCR Versorgungselemente
+325 96 1068 1234 0.500000 0 1
+2 1 s1.ct
+3 1 psup9.ct
+4 1 psup10.ct
+5 1 s3.ct
+6 1 s2.ct
+7 1 pacc1.ct
+8 1 pacc2.ct
+9 1 psup7.ct
+10 1 psup2.ct
+11 1 psup5.ct
+12 1 psup8.ct
+13 1 psup4.ct
+14 1 psup3.ct
+15 1 psup6.ct
+1 2 psup1.ct

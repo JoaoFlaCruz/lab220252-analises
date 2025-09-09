@@ -1,0 +1,2 @@
+DESCR TP 111 (Regelpneumatik Grundstufe)
+24 24 1180 1230 0.500000

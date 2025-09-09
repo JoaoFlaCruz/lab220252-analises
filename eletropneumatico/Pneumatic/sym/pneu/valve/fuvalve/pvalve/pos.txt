@@ -1,0 +1,8 @@
+DESCR Pneumatisch betätigt
+325 96 1068 1234 0.500000 0 1
+2 1 pn1.ct
+3 1 pn2.ct
+4 1 pn3.ct
+5 1 pn5.ct
+6 1 pneu_gv.ct
+7 1 pn4.ct

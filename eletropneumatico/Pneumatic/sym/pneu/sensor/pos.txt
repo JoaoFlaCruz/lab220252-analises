@@ -1,0 +1,12 @@
+DESCR Messinstrumente / Sensoren
+1 -3 602 918 0.500000 0 1
+2 1 mea.ct
+3 1 mea1b.ct
+4 1 pmea4.ct
+5 1 mea3.ct
+6 1 mea3b.ct
+7 1 pmea5.ct
+8 1 ps1.ct
+9 1 ps2.ct
+10 1 pasens.ct
+11 1 sf6.ct

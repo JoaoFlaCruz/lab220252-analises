@@ -1,0 +1,8 @@
+DESCR Manuell betätigt
+325 96 1068 1234 0.500000 0 0
+2 1 ms4.ct
+3 1 ms1.ct
+4 1 ms5.ct
+5 1 ms2.ct
+1 2 ms6.ct
+2 2 ms3.ct

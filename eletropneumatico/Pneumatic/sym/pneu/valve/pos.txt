@@ -1,0 +1,7 @@
+DESCR Ventile
+1 -3 606 918 0.500000 0 1
+2 1 cvalve
+3 1 fuvalve
+4 1 sfcvalve
+5 1 pcvalve
+6 1 provalve

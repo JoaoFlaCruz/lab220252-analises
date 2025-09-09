@@ -1,0 +1,2 @@
+DESCR TP 201 (Elektropneumatik Grundstufe)
+676 11 1180 1230 0.500000

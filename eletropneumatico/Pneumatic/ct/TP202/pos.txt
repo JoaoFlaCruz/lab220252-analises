@@ -1,0 +1,2 @@
+DESCR TP 202 (Elektropneumatik Aufbaustufe)
+0 -1 326 1210 0.500000

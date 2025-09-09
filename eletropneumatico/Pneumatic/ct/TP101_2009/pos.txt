@@ -1,0 +1,2 @@
+DESCR TP 101 (Pneumatik Grundstufe 2009)
+378 26 1180 1230 0.500000

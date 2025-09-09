@@ -1,0 +1,6 @@
+DESCR Näherungsschalter
+325 96 1068 1234 0.500000 0 0
+2 1 px2.ct
+3 1 px4.ct
+4 1 px1.ct
+5 1 px3.ct

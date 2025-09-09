@@ -1,0 +1,14 @@
+DESCR Aktuatoren
+325 96 1068 1234 0.500000 0 1
+2 1 fuact
+3 1 mi2.ct
+4 1 a003.ct
+5 1 a004.ct
+6 1 a001.ct
+7 1 a002.ct
+8 1 a005.ct
+9 1 a8.ct
+10 1 a7.ct
+11 1 a4.ct
+12 1 a5.ct
+13 1 a6.ct

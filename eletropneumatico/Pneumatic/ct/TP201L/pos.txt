@@ -1,0 +1,2 @@
+DESCR TP 201 (Elektropneumatik Grundstufe, Logik)
+24 24 1180 1230 0.500000

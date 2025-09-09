@@ -1,0 +1,10 @@
+0 black
+1 red
+2 yellow
+3 green
+4 smaragd
+5 darkblue
+6 pink
+7 black
+8 gray
+

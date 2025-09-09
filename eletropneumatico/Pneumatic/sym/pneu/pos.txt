@@ -1,0 +1,7 @@
+DESCR Pneumatik
+325 96 1068 1234 0.500000 0 1
+2 1 supply
+3 1 actuator
+4 1 valve
+5 1 vgroup
+6 1 sensor

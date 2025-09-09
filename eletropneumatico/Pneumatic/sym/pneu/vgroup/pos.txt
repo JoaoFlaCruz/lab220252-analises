@@ -1,0 +1,10 @@
+DESCR Ventilgruppen
+325 96 1068 1234 0.500000 0 1
+2 1 pg5.ct
+3 1 pg6.ct
+4 1 twohand.ct
+5 1 quickstp.ct
+6 1 pg1.ct
+7 1 pg3.ct
+8 1 pg4.ct
+9 1 pg2.ct

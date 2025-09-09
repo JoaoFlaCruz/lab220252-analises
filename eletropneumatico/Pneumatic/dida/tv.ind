@@ -1,0 +1,532 @@
+p1.ct Lernprogramm
+p1_1.ct Versuche
+p1_1_1.ct Bewegen einer Masse
+p1_1_1_1.ct Horizontales Bewegen einer Masse
+p1_1_1_1_1.ct Der doppelt wirkende Zylinder
+p1_1_1_1_2.ct Normzylinder DSNU - 20 - 100 - PPV - A
+p1_1_1_1_3.ct Eingestellte Zylinderparameter
+p1_1_1_1_4.ct Externe Last und Reibung
+p1_1_1_1_5.ct Betriebsdruck der Druckluftquelle
+p1_1_1_1_6.ct Durchführung
+p1_1_1_1_7.ct Auswertung
+p1_1_1_1_8.ct Lösung
+p1_1_1_1_9.ct Zusatzaufgabe
+p1_1_1_1_10.ct Auswertung Teil 1
+p1_1_1_1_11.ct Auswertung Teil 2
+p1_1_1_1_12.ct Auswertung Teil 3
+p1_1_1_2.ct Vertikales Bewegen einer Masse
+p1_1_1_2_1.ct Zylinderauswahl
+p1_1_1_2_2.ct Auswertung
+p1_1_1_2_3.ct Lösung
+p1_1_1_2_4.ct Kompaktzylinder ADVU-40-P-A
+p1_1_1_2_5.ct Parameter einstellen
+p1_1_1_2_6.ct Funktion prüfen
+p1_1_1_2_7.ct Zusatzaufgabe
+p1_1_1_2_8.ct Auswertung Teil 1
+p1_1_1_2_9.ct Auswertung Teil 2
+p1_1_1_2_10.ct Auswertung Teil 3
+p1_1_2.ct Bestimmung des Normal-Nenndurchflusses
+p1_1_2_1.ct Durchführung
+p1_1_2_2.ct Auswertung
+p1_1_3.ct Leitwert und kritisches Druckverhältnis
+p1_1_3_1.ct Berechnungsformeln
+p1_1_3_2.ct Versuchsaufbau
+p1_1_3_3.ct Leitwert bestimmen
+p1_1_3_4.ct Kritisches Druckverhältnis ermitteln
+p1_1_3_5.ct Auswertung
+p1_1_4.ct Massenträgheit
+p1_1_4_1.ct Trägheitsgesetz
+p1_1_4_2.ct Normzylinder DSNU-20-100-PPV-A
+p1_1_4_3.ct Versuchsaufbau
+p1_1_4_4.ct Eingestellte Zylinderparameter
+p1_1_4_5.ct Einstellen der bewegten Masse
+p1_1_4_6.ct Betriebsdruck der Druckluftquelle
+p1_1_4_7.ct Durchführung
+p1_1_4_8.ct Auswertung
+p1_1_4_9.ct Berechnung der maximalen Beschleunigung
+p1_1_4_10.ct Auswertung
+p1_1_4_11.ct Optimierung der Zylinderbeschleunigung
+p1_1_4_11_1.ct Zylinderauswahl
+p1_1_4_11_2.ct Einstellen der Zylinderparameter
+p1_1_4_11_3.ct Durchführung
+p1_1_4_11_4.ct Vergleich: Rechnung und Simulation
+p1_1_5.ct Messen und Berechnen des Luftbedarfs
+p1_1_5_1.ct Problemstellung
+p1_1_5_2.ct Messen des Druckluftbedarfs ohne Leckagen
+p1_1_5_2_1.ct Durchführung
+p1_1_5_2_2.ct Auswertung und Lösung
+p1_1_5_3.ct Messen des Druckluftbedarfs mit Leckagen
+p1_1_5_3_1.ct Durchführung
+p1_1_5_3_2.ct Auswertung und Lösung
+p1_2.ct Exkurse
+p1_2_1.ct Rund um das Gas "Luft"
+p1_2_1_1.ct Druckangaben
+p1_2_1_1_1.ct Beispiel
+p1_2_1_2.ct Boyle-Mariott’sches Gesetz
+p1_2_1_3.ct Allgemeine Gasgleichung
+p1_2_1_3_1.ct Rechenbeispiel
+p1_2_1_4.ct Normzustand
+p1_2_1_4_1.ct Physikalischer Normzustand
+p1_2_1_4_2.ct Technischer Normzustand
+p1_2_1_5.ct Thermische Zustandsgleichung idealer Gase
+p1_2_2.ct Berechnung des Druckaufbaus
+p1_2_2_1.ct Vergleich: Rechnung und Simulation
+p1_2_3.ct Durchflussmodell nach ISO 6358
+p1_2_3_1.ct Über- und unterkritische Strömung
+p1_2_3_2.ct Näherungsellipse nach ISO 6358
+p1_2_3_3.ct Berechnungsformel
+p1_2_4.ct Umrechnung Massenstrom in Volumenstrom
+p1_2_4_1.ct Umschalten der Einheit in FluidSIM
+p1_2_5.ct Durchflussangaben
+p1_2_5_1.ct Nennbedingungen
+p1_2_5_2.ct Messung des Normal-Nenndurchflusses
+p1_2_6.ct Berechnung der theoretischen und effektiven Kolbenkraft
+p1_2_6_1.ct Theoretische Kolbenkraft
+p1_2_6_1_1.ct Beispiel
+p1_2_6_1_2.ct Aufgabe
+p1_2_6_1_3.ct Lösung
+p1_2_6_1_4.ct Hinweis
+p1_2_6_1_5.ct Berechnung des Kolbenstangendurchmessers
+p1_2_6_2.ct Effektive Kolbenkraft
+p1_3.ct Mathematische Modelle
+p1_3_1.ct Modell der Druckluftquelle
+p1_3_2.ct Durchflussmodell der Komponenten mit konstantem Querschnitt
+p1_3_3.ct Durchflussmodell des Schalldämpfers
+p1_3_4.ct Durchflussmodell der Komponenten mit druckabhängigem Querschnitt
+p1_3_5.ct Modell des Druckluftspeichers
+p1_3_6.ct Modell der konfigurierbaren Wegeventile
+p1_3_7.ct Modell des Zylinders
+p1_3_7_1.ct Kräftegleichgewicht
+p1_3_7_1_1.ct Geschwindigkeitsabhängige Reibung
+p1_3_7_1_2.ct Die dem Ausfahren entgegenwirkende Gewichtskraft
+p1_3_7_1_3.ct Die vom Anwender vorgegebene Kraft
+p1_3_7_1_4.ct Federkraft bei Zylindern mit Federrückstellung
+p1_3_7_2.ct Leckage
+p1_3_8.ct Modell des Rotationsantriebs
+p1_3_8_1.ct Gleichgewicht der Drehmomente
+p1_3_8_2.ct Leckage
+p1_3_8_3.ct Winkelgeschwindigkeit
+p1_3_9.ct Simulationsverfahren
+p1_4.ct Verschiedenes
+p1_4_1.ct Internationales Einheitensystem (SI-Einheiten)
+p1_4_2.ct Literatur
+p2.ct Komponentenbibliothek
+p2_1.ct Pneumatische Komponenten
+p2_1_1.ct Versorgungselemente
+p2_1_1_1.ct Druckluftquelle
+p2_1_1_2.ct Verdichter
+p2_1_1_3.ct Verdichter, einstellbar
+p2_1_1_4.ct Wartungseinheit, vereinfachte Darstellung
+p2_1_1_5.ct Wartungseinheit
+p2_1_1_6.ct Druckspeicher
+p2_1_1_7.ct Druckspeicher (2 Anschlüsse)
+p2_1_1_8.ct Druckluftfilter
+p2_1_1_9.ct Druckluftfilter, manueller Kondensablass
+p2_1_1_10.ct Filter mit Wasserabscheider, automatisch
+p2_1_1_11.ct Wasserabscheider
+p2_1_1_12.ct Wasserabscheider mit automatischer Entleerung
+p2_1_1_13.ct Öler
+p2_1_1_14.ct Kühler
+p2_1_1_15.ct Adsorptionstrockner
+p2_1_1_16.ct Anschluss (pneumatisch)
+p2_1_1_17.ct Leitung (pneumatisch)
+p2_1_1_18.ct T-Verteiler (pneumatisch)
+p2_1_2.ct Konfigurierbare Wegeventile
+p2_1_2_1.ct Konfigurierbares 2/n-Wegeventil
+p2_1_2_2.ct Konfigurierbares 3/n-Wegeventil
+p2_1_2_3.ct Konfigurierbares 4/n-Wegeventil
+p2_1_2_4.ct Konfigurierbares 5/n-Wegeventil
+p2_1_2_5.ct Konfigurierbares 6/n-Wegeventil
+p2_1_2_6.ct Konfigurierbares 8/n-Wegeventil
+p2_1_3.ct Mechanisch betätigte Wegeventile
+p2_1_3_1.ct 3/2-Wege-Rollenhebelventil, in Ruhestellung gesperrt
+p2_1_3_2.ct 3/2-Wege-Rollenhebelventil, in Ruhestellung geöffnet
+p2_1_3_3.ct 3/2-Wege-Kipprollenventil, in Ruhestellung gesperrt
+p2_1_3_4.ct Staudruckventil
+p2_1_3_5.ct Pneumatischer Näherungsschalter, magnetisch betätigt
+p2_1_3_6.ct 3/2-Wegeventil mit Drucktaster, in Ruhestellung gesperrt
+p2_1_3_7.ct 3/2-Wegeventil mit Drucktaster, in Ruhestellung geöffnet
+p2_1_3_8.ct 3/2-Wegeventil mit Wahlschalter bzw. Schlagtaster, in Ruhestellung gesperrt
+p2_1_3_9.ct 5/2-Wegeventil mit Wahlschalter
+p2_1_4.ct Elektromagnetisch betätigte Wegeventile
+p2_1_4_1.ct 3/2-Wege-Magnetventil, in Ruhestellung gesperrt
+p2_1_4_2.ct 3/2-Wege-Magnetventil, in Ruhestellung geöffnet
+p2_1_4_3.ct 5/2-Wege-Magnetventil
+p2_1_4_4.ct 5/2-Wege-Magnet-Impulsventil
+p2_1_4_5.ct 5/3-Wege-Magnetventil, in Mittelstellung gesperrt
+p2_1_5.ct Pneumatisch betätigte Wegeventile
+p2_1_5_1.ct 3/2-Wege-Pneumatikventil, in Ruhestellung gesperrt
+p2_1_5_2.ct 3/2-Wege-Pneumatikventil, in Ruhestellung geöffnet
+p2_1_5_3.ct 5/2-Wege-Pneumatikventil
+p2_1_5_4.ct 5/2-Wege-Pneumatik-Impulsventil
+p2_1_5_5.ct 5/3-Wege-Pneumatikventil, in Mittelstellung gesperrt
+p2_1_5_6.ct Niederdruck-Verstärker-Baustein, 2-fach
+p2_1_6.ct Sperr- und Stromventile
+p2_1_6_1.ct Wechselventil
+p2_1_6_2.ct Schnellentlüftungsventil
+p2_1_6_3.ct Zweidruckventil
+p2_1_6_4.ct Rückschlagventil
+p2_1_6_5.ct Rückschlagventil mit Feder
+p2_1_6_6.ct Entsperrbares Rückschlagventil
+p2_1_6_7.ct Entsperrbares Rückschlagventil mit Feder
+p2_1_6_8.ct Sperrbares Rückschlagventil
+p2_1_6_9.ct Sperrbares Rückschlagventil mit Feder
+p2_1_6_10.ct Düse
+p2_1_6_11.ct Drosselventil
+p2_1_6_12.ct Blende
+p2_1_6_13.ct Blende, einstellbar
+p2_1_6_14.ct Drosselrückschlagventil
+p2_1_6_15.ct Pneumatischer Vorwahlzähler
+p2_1_6_16.ct Pneumatischer Timer, in Ruhestellung gesperrt
+p2_1_6_17.ct Pneumatischer Timer, in Ruhestellung geöffnet
+p2_1_6_18.ct Ringstrahlsensor (Reflexauge)
+p2_1_7.ct Druckventile
+p2_1_7_1.ct 2-Wege-Druckregelventil
+p2_1_7_2.ct 2-Wege-Druckregelventil, einstellbar
+p2_1_7_3.ct 3-Wege-Druckregelventil mit Manometer
+p2_1_7_4.ct 3-Wege-Druckregelventil
+p2_1_7_5.ct 3-Wege-Druckregelventil, einstellbar
+p2_1_7_6.ct Druckwaage (Schließer)
+p2_1_7_7.ct Druckwaage (Schließer), einstellbar
+p2_1_7_8.ct Druckwaage (Öffner)
+p2_1_7_9.ct Druckwaage (Öffner), einstellbar
+p2_1_8.ct Druckbetätigte Schalter
+p2_1_8_1.ct Druckschalter
+p2_1_8_2.ct Differenzdruckschalter
+p2_1_9.ct Ventilgruppen
+p2_1_9_1.ct Druckschaltventil
+p2_1_9_2.ct Vakuumschaltkopf
+p2_1_9_3.ct Verzögerungsventil, in Ruhestellung gesperrt
+p2_1_9_4.ct Verzögerungsventil, in Ruhestellung geöffnet
+p2_1_9_5.ct Taktstufen-Baustein Typ TAA
+p2_1_9_6.ct Taktstufen-Baustein Typ TAB
+p2_1_9_7.ct Quickstepper
+p2_1_10.ct Stetigventile
+p2_1_10_1.ct 5/3-Wege Proportionalventil
+p2_1_11.ct Aktuatoren
+p2_1_11_1.ct Konfigurierbarer Zylinder
+p2_1_11_2.ct Einfachwirkender Zylinder
+p2_1_11_3.ct Einfachwirkender Zylinder mit Rückstellfeder im Kolbenraum
+p2_1_11_4.ct Doppeltwirkender Zylinder
+p2_1_11_5.ct Doppeltwirkender Zylinder mit durchgehender Kolbenstange
+p2_1_11_6.ct Doppeltwirkender Zylinder mit zwei Kolbenstangen und einem Joch
+p2_1_11_7.ct Doppeltwirkender Zylinder mit zwei durchgehenden Kolbenstangen und doppeltem Joch
+p2_1_11_8.ct Doppeltwirkender Mehrstellungszylinder
+p2_1_11_9.ct Pneumatischer Linearantrieb mit Magnetkupplung
+p2_1_11_10.ct Pneumatischer Linearantrieb mit formschlüssiger Verbindung
+p2_1_11_11.ct Pneumatischer Linearantrieb mit formschlüssiger Verbindung
+p2_1_11_12.ct Pneumatischer Motor
+p2_1_11_13.ct Schwenkzylinder
+p2_1_11_14.ct Vakuumsaugdüse
+p2_1_11_15.ct Saugnapf
+p2_1_12.ct Messgeräte
+p2_1_12_1.ct Druckmessgerät
+p2_1_12_2.ct Differenzdruckmessgerät
+p2_1_12_3.ct Druckanzeige
+p2_1_12_4.ct Analog-Drucksensor
+p2_1_12_5.ct Durchflussmesser
+p2_1_12_6.ct Analog-Durchflussmesser
+p2_2.ct Elektrische Komponenten
+p2_2_1.ct Spannungsversorgung
+p2_2_1_1.ct Spannungsquelle (0V)
+p2_2_1_2.ct Spannungsquelle (24V)
+p2_2_1_3.ct Funktionsgenerator
+p2_2_1_4.ct Sollwertkarte
+p2_2_1_5.ct Anschluss (elektrisch)
+p2_2_1_6.ct Leitung (elektrisch)
+p2_2_1_7.ct T-Verteiler (elektrisch)
+p2_2_2.ct Aktuatoren / Meldeeinrichtungen
+p2_2_2_1.ct Gleichstrommotor
+p2_2_2_2.ct Hubmagnet
+p2_2_2_3.ct Leuchtmelder
+p2_2_2_4.ct Hörmelder
+p2_2_3.ct Messinstrumente / Sensoren
+p2_2_3_1.ct Voltmeter
+p2_2_3_2.ct Amperemeter
+p2_2_3_3.ct Wegmesssystem
+p2_2_3_4.ct Analog-Drucksensor
+p2_2_3_5.ct Analog-Durchflussmesser
+p2_2_4.ct Allgemeine Schalter
+p2_2_4_1.ct Öffner
+p2_2_4_2.ct Schließer
+p2_2_4_3.ct Wechsler
+p2_2_5.ct Verzögerungsschalter
+p2_2_5_1.ct Öffner (anzugverzögert)
+p2_2_5_2.ct Schließer (anzugverzögert)
+p2_2_5_3.ct Wechsler (anzugverzögert)
+p2_2_5_4.ct Öffner (abfallverzögert)
+p2_2_5_5.ct Schließer (abfallverzögert)
+p2_2_5_6.ct Wechsler (abfallverzögert)
+p2_2_6.ct Endlagenschalter
+p2_2_6_1.ct Grenztaster (Öffner)
+p2_2_6_2.ct Endschalter-Rolle (Öffner)
+p2_2_6_3.ct Reedkontakt (Öffner)
+p2_2_6_4.ct Grenztaster (Schließer)
+p2_2_6_5.ct Endschalter-Rolle (Schließer)
+p2_2_6_6.ct Reedkontakt (Schließer)
+p2_2_6_7.ct Grenztaster (Wechsler)
+p2_2_6_8.ct Endschalter-Rolle (Wechsler)
+p2_2_6_9.ct Reedkontakt (Wechsler)
+p2_2_7.ct Handbetätigte Schalter
+p2_2_7_1.ct Taster (Öffner)
+p2_2_7_2.ct Taster (Schließer)
+p2_2_7_3.ct Taster (Wechsler)
+p2_2_7_4.ct Schalter (Öffner)
+p2_2_7_5.ct Schalter (Schließer)
+p2_2_7_6.ct Schalter (Wechsler)
+p2_2_8.ct Druckbetätigte Schalter
+p2_2_8_1.ct Pneumatisch-Elektrischer Wandler
+p2_2_8_2.ct Druckschalter (Öffner)
+p2_2_8_3.ct Druckschalter (Schließer)
+p2_2_8_4.ct Druckschalter (Wechsler)
+p2_2_8_5.ct Druckschalter
+p2_2_9.ct Näherungsschalter
+p2_2_9_1.ct Näherungsschalter, magnetisch
+p2_2_9_2.ct Näherungsschalter, induktiv
+p2_2_9_3.ct Näherungsschalter, kapazitiv
+p2_2_9_4.ct Näherungsschalter, optisch
+p2_2_10.ct Relais
+p2_2_10_1.ct Relais
+p2_2_10_2.ct Relais (anzugverzögert)
+p2_2_10_3.ct Relais (abfallverzögert)
+p2_2_10_4.ct Elektrischer Vorwahlzähler
+p2_2_10_5.ct Anlaufstrombegrenzer
+p2_2_11.ct Regler
+p2_2_11_1.ct Komparator
+p2_2_11_2.ct PID-Regler
+p2_2_11_3.ct Zustandsregler
+p2_2_12.ct EasyPort/OPC-/DDE-Komponenten
+p2_2_12_1.ct FluidSIM-Out
+p2_2_12_2.ct FluidSIM-In
+p2_2_12_3.ct Multipolverteiler
+p2_2_12_4.ct Universal-I/O
+p2_3.ct Elektrische Komponenten (Amerikanische Norm)
+p2_3_1.ct Spannungsversorgung
+p2_3_1_1.ct Spannungsquelle (0V)
+p2_3_1_2.ct Spannungsquelle (24V)
+p2_3_2.ct Allgemeine Schalter
+p2_3_2_1.ct Öffner
+p2_3_2_2.ct Schließer
+p2_3_3.ct Verzögerungsschalter
+p2_3_3_1.ct Öffner (anzugverzögert)
+p2_3_3_2.ct Schließer (anzugverzögert)
+p2_3_3_3.ct Öffner (abfallverzögert)
+p2_3_3_4.ct Schließer (abfallverzögert)
+p2_3_4.ct Endlagenschalter
+p2_3_4_1.ct Grenztaster (Öffner)
+p2_3_4_2.ct Grenztaster (Schließer)
+p2_3_5.ct Handbetätigte Schalter
+p2_3_5_1.ct Taster (Öffner)
+p2_3_5_2.ct Taster (Schließer)
+p2_3_5_3.ct Taster (Wechsler)
+p2_3_6.ct Druckbetätigte Schalter
+p2_3_6_1.ct Druckschalter (Öffner)
+p2_3_6_2.ct Druckschalter (Schließer)
+p2_3_7.ct Relais
+p2_3_7_1.ct Relais
+p2_3_7_2.ct Relais (anzugverzögert)
+p2_3_7_3.ct Relais (abfallverzögert)
+p2_4.ct Digitalkomponenten
+p2_4_1.ct Konstanten und Klemmen
+p2_4_1_1.ct Digitaler Eingang
+p2_4_1_2.ct Digitaler Ausgang
+p2_4_1_3.ct Merker
+p2_4_1_4.ct Fester Pegel HI
+p2_4_1_5.ct Fester Pegel LO
+p2_4_1_6.ct Anschluss (digital)
+p2_4_1_7.ct Leitung (digital)
+p2_4_1_8.ct T-Verteiler (digital)
+p2_4_2.ct Grundfunktionen
+p2_4_2_1.ct AND
+p2_4_2_2.ct AND mit Flankenauswertung
+p2_4_2_3.ct NAND (UND nicht)
+p2_4_2_4.ct NAND mit Flankenauswertung
+p2_4_2_5.ct OR
+p2_4_2_6.ct NOR (ODER nicht)
+p2_4_2_7.ct XOR (exklusiv ODER)
+p2_4_2_8.ct NOT (Negation, Inverter)
+p2_4_3.ct Sonderfunktionen
+p2_4_3_1.ct Digital-Modul
+p2_4_3_2.ct Einschaltverzögerung
+p2_4_3_3.ct Ausschaltverzögerung
+p2_4_3_4.ct Ein-, Ausschaltverzögerung
+p2_4_3_5.ct Speichernde Einschaltverzögerung
+p2_4_3_6.ct Selbsthalterelais
+p2_4_3_7.ct Stromstoßrelais
+p2_4_3_8.ct Wischrelais - Impulsausgabe
+p2_4_3_9.ct Flankengetriggertes Wischrelais
+p2_4_3_10.ct Zeitschaltuhr
+p2_4_3_11.ct Vor-/Rückwärtszähler
+p2_4_3_12.ct Symmetrischer Taktgeber
+p2_4_3_13.ct Asynchroner Impulsgeber
+p2_4_3_14.ct Schwellwertschalter für Frequenzen
+p2_5.ct GRAFCET-Elemente
+p2_5_1.ct GRAFCET
+p2_5_1_1.ct Schritt
+p2_5_1_2.ct Transition
+p2_5_1_3.ct Aktion
+p2_5_1_4.ct Synchronisation
+p2_5_1_5.ct Teil-GRAFCET
+p2_5_1_6.ct GRAFCET-I/O
+p2_6.ct Sonstige Komponenten
+p2_6_1.ct Sonstige
+p2_6_1_1.ct Anschluss (mechanisch)
+p2_6_1_2.ct Ventilmagnet
+p2_6_1_3.ct Proportional-Ventilmagnet, lagegeregelt
+p2_6_1_4.ct Ventilmagnet (Amerikanische Norm)
+p2_6_1_5.ct Wegmaßstab
+p2_6_1_6.ct Zustandsanzeiger
+p2_6_1_7.ct Schaltnocken
+p2_6_1_8.ct Text
+p2_6_1_9.ct Zustandsdiagramm
+p2_6_1_10.ct Klemmenbelegungsliste
+p2_6_1_11.ct Funktionsdiagramm-Editor
+p2_6_1_12.ct Stückliste
+p2_6_1_13.ct Rechteck
+p2_6_1_14.ct Ellipse
+p2_6_1_15.ct Bilddatei
+p3.ct Lehrmaterial
+p3_1.ct Grundlagen und Funktionsdarstellungen
+p3_1_1.ct Grundlagen der Pneumatik
+p3_1_1_1.ct 1 Struktur pneumatischer Systeme
+p3_1_1_2.ct 2 Der Systemschaltplan
+p3_1_1_3.ct 3 Bezeichnung der Elemente im Schaltplan
+p3_1_1_4.ct 4 Bezeichnung der Elemente im Schaltplan
+p3_1_1_5.ct 5 Bezeichnung der Elemente im Schaltplan
+p3_1_1_6.ct 6 Nummerierung der Elemente
+p3_1_2.ct Energieversorgung
+p3_1_2_1.ct 7 Schaltsymbole Energieversorgung und -aufbereitung
+p3_1_2_2.ct 8 Schaltsymbole Energieversorgung
+p3_1_2_3.ct 9 Wartungseinheit
+p3_1_2_4.ct 10 Druckluftfilter
+p3_1_2_5.ct 11 Kältetrocknung
+p3_1_2_6.ct 12 Absorptionstrocknung
+p3_1_2_7.ct 13 Adsorptionstrocknung
+p3_1_2_8.ct 14 Druckluftöler
+p3_1_2_9.ct 15 Druckluftöler (Detail)
+p3_1_2_10.ct 16 Druckregelventil mit Abflussöffnung 
+p3_1_2_11.ct 17 Druckluftverteilung
+p3_1_2_12.ct 18 Kolbenverdichter
+p3_1_2_13.ct 19 Strömungsverdichter
+p3_1_2_14.ct 20 Ringleitung und Verbundnetz
+p3_1_2_15.ct 21 Absoluter und atmosphärischer Druck
+p3_1_3.ct Antriebe
+p3_1_3_1.ct 22 Schaltsymbole Linearantriebe
+p3_1_3_2.ct 23 Schaltsymbole Rotationsantriebe
+p3_1_3_3.ct 24 Ansteuerung eines einfachwirkenden Zylinders 
+p3_1_3_4.ct 25 Einfachwirkender Zylinder
+p3_1_3_5.ct 26 Einfachwirkender Zylinder 
+p3_1_3_6.ct 27 Ansteuerung eines doppeltwirkenden Zylinders 
+p3_1_3_7.ct 28 Doppeltwirkender Zylinder
+p3_1_3_8.ct 29 Doppeltwirkender Zylinder 
+p3_1_3_9.ct 30 Doppeltwirkender Zylinder mit Endlagendämpfung
+p3_1_3_10.ct 31 Dichtungsarten
+p3_1_3_11.ct 32 Befestigungsarten
+p3_1_3_12.ct 33 Tandemzylinder
+p3_1_3_13.ct 34 Schwenkantrieb
+p3_1_3_14.ct 35 Lamellenmotor
+p3_1_4.ct Wegeventile
+p3_1_4_1.ct 36 Schaltsymbole Wegeventile (1)
+p3_1_4_2.ct 37 Schaltsymbole Wegeventile (2)
+p3_1_4_3.ct 38 Anschlussbezeichnungen
+p3_1_4_4.ct 39 Schaltsymbole Betätigungsarten (1)
+p3_1_4_5.ct 40 Schaltsymbole Betätigungsarten (2)
+p3_1_4_6.ct 41 3/2-Wegeventil, Kugelsitzprinzip
+p3_1_4_7.ct 42 3/2-Wegeventile
+p3_1_4_8.ct 43 3/2-Wegeventil, Tellersitzprinzip 
+p3_1_4_9.ct 44 3/2-Wegeventil, Tellersitzprinzip, Durchfluss-Ruhestellung
+p3_1_4_10.ct 45 3/2-Wegeventil, einseitig pneumatisch betätigt, Sperr-Ruhestellung
+p3_1_4_11.ct 46 3/2-Wegeventil, einseitig pneumatisch betätigt
+p3_1_4_12.ct 47 3/2-Wegeventil, mit Rollenhebel
+p3_1_4_13.ct 48 3/2-Wegeventil, mit Rollenhebel, vorgesteuert, Sperr-Ruhestellung
+p3_1_4_14.ct 49 4/2-Wegeventil, mit Rollenhebel
+p3_1_4_15.ct 50 4/2-Wegeventil, Tellersitzprinzip
+p3_1_4_16.ct 51 4/3-Wegeventil, Drehschieberprinzip
+p3_1_4_17.ct 52 5/2-Wegeventil (Impulsventil), Längsschieberprinzip
+p3_1_4_18.ct 53 5/2-Wegeventil (Impulsventil), Längsschieberprinzip
+p3_1_4_19.ct 54 5/2-Wegeventil (Impulsventil) mit Schwebetellersitz 
+p3_1_4_20.ct 55 5/3-Wegeventil, beidseitig pneumatisch betätigt
+p3_1_4_21.ct 56 Schaltplan: Impulsventil und Speicherverhalten
+p3_1_4_22.ct 57 Schaltplan: Impulsventil und Speicherverhalten
+p3_1_4_23.ct 58 Schaltplan: Impulsventil und Speicherverhalten
+p3_1_4_24.ct 59 Schaltplan: Impulsventil und Speicherverhalten
+p3_1_4_25.ct 60 Schaltplan: Impulsventil und Speicherverhalten
+p3_1_4_26.ct 61 Direkte Ansteuerung
+p3_1_4_27.ct 62 Indirekte Ansteuerung
+p3_1_4_28.ct 63 Übung: Direktes Ansteuern eines doppeltwirkenden Zylinders - Übersicht
+p3_1_4_29.ct 64 Übung: Direktes Ansteuern eines doppeltwirkenden Zylinders - Aufgabe
+p3_1_4_30.ct 65 Übung: Direktes Ansteuern eines doppeltwirkenden Zylinders - Lösung
+p3_1_4_31.ct 66 Übung: Indirektes Ansteuern eines doppeltwirkenden Zylinders - Übersicht
+p3_1_4_32.ct 67 Übung: Indirektes Ansteuern eines doppeltwirkenden Zylinders - Aufgabe
+p3_1_4_33.ct 68 Übung: Indirektes Ansteuern eines doppeltwirkenden Zylinders - Lösung
+p3_1_5.ct Sperrventile
+p3_1_5_1.ct 69 Schaltsymbole Sperrventile
+p3_1_5_2.ct 70 Rückschlagventil mit Feder
+p3_1_5_3.ct 71 Zweidruckventil
+p3_1_5_4.ct 72 Schaltplan: Zweidruckventil I
+p3_1_5_5.ct 73 Schaltplan: Zweidruckventil II
+p3_1_5_6.ct 74 Schaltplan: Zweidruckventil III
+p3_1_5_7.ct 75 Übung: Die UND-Funktion:Zweidruckventil - Übersicht
+p3_1_5_8.ct 76 Übung: Die UND-Funktion:Zweidruckventil - Aufgabe
+p3_1_5_9.ct 77 Übung: Die UND-Funktion:Zweidruckventil - Lösung
+p3_1_5_10.ct 78 Wechselventil
+p3_1_5_11.ct 79 Schaltplan: Wechselventil I
+p3_1_5_12.ct 80 Schaltplan: Wechselventil II
+p3_1_5_13.ct 81 Schaltplan: Wechselventil III
+p3_1_5_14.ct 82 Schaltplan: Wechselventil IV
+p3_1_5_15.ct 83 Übung: Die ODER-Funktion, Wechselventil - Übersicht
+p3_1_5_16.ct 84 Übung: Die ODER-Funktion, Wechselventil - Aufgabe
+p3_1_5_17.ct 85 Übung: Die ODER-Funktion, Wechselventil - Lösung
+p3_1_5_18.ct 86 Schnellentlüftungsventil
+p3_1_5_19.ct 87 Schnellentlüftungsventil 
+p3_1_5_20.ct 88 Schaltplan: Schnellentlüftungsventil
+p3_1_5_21.ct 89 Übung: Das Schnellentlüftungsventil - Übersicht
+p3_1_5_22.ct 90 Übung: Das Schnellentlüftungsventil - Aufgabe
+p3_1_5_23.ct 91 Übung: Das Schnellentlüftungsventil - Lösung
+p3_1_6.ct Stromventile
+p3_1_6_1.ct 92 Schaltsymbole Stromventile
+p3_1_6_2.ct 93 Drosselrückschlagventil
+p3_1_6_3.ct 94 Drosselrückschlagventil 
+p3_1_6_4.ct 95 Drosselventil
+p3_1_6_5.ct 96 Zuluft- und Abluftdrosselung
+p3_1_7.ct Druckventile
+p3_1_7_1.ct 97 Schaltsymbole Druckventile
+p3_1_7_2.ct 98 Druckschaltventil (Folgeventil)
+p3_1_7_3.ct 99 Druckschaltventil (Folgeventil)
+p3_1_7_4.ct 100 Schaltplan: Druckschaltventil
+p3_1_7_5.ct 101 Übung: Druckabhängige Steuerung, Prägen von Werkstücken - Übersicht
+p3_1_7_6.ct 102 Übung: Druckabhängige Steuerung, Prägen von Werkstücken - Aufgabe
+p3_1_7_7.ct 103 Übung: Druckabhängige Steuerung, Prägen von Werkstücken - Lösung
+p3_1_8.ct Verzögerungsventil
+p3_1_8_1.ct 104 Verzögerungsventil
+p3_1_8_2.ct 105 Verzögerungsventil, Sperr-Ruhestellung 
+p3_1_8_3.ct 106 Schaltplan: Verzögerungsventil
+p3_1_8_4.ct 107 Übung: Das Verzögerungsventil - Übersicht
+p3_1_8_5.ct 108 Übung: Das Verzögerungsventil - Aufgabe
+p3_1_8_6.ct 109 Übung: Das Verzögerungsventil - Lösung
+p3_1_8_7.ct 110 Übung: Speicherschaltung und Geschwindigkeitssteuerung - Übersicht
+p3_1_8_8.ct 111 Übung: Speicherschaltung und Geschwindigkeitssteuerung - Aufgabe
+p3_1_8_9.ct 112 Übung: Speicherschaltung und Geschwindigkeitssteuerung - Lösung
+p3_1_9.ct Wegplansteuerung und Signalüberschneidung
+p3_1_9_1.ct 113 Weg-Schritt-Diagramm
+p3_1_9_2.ct 114 Schaltplan: Wegplansteuerung
+p3_1_9_3.ct 115 Schaltung mit Signalüberschneidung I
+p3_1_9_4.ct 116 Schaltung mit Signalüberschneidung II
+p3_1_9_5.ct 117 Schaltung mit Signalüberschneidung III
+p3_1_9_6.ct 118 Funktionsdiagramm: Signalüberschneidung
+p3_1_9_7.ct 119 Lösung mit Kipprollenventil
+p3_1_9_8.ct 120 Lösung mit Umschaltventil
+p3_2.ct Lehrfilme
+p3_2_1.ct 1 Einführung 
+p3_2_2.ct 2 Grundlagen: Aufbau hybrider Anlagen 
+p3_2_3.ct 3 Grundlagen: Grundlagen der Elektrik 
+p3_2_4.ct 4 Signalgeber und Relais - Signale 
+p3_2_5.ct 5 Signalgeber und Relais - Signalgeber 
+p3_2_6.ct 6 Signalgeber und Relais - Druckschalter 
+p3_2_7.ct 7 Signalgeber und Relais - Relais 
+p3_2_8.ct 8 Magnetventile 
+p3_2_9.ct 9 Magnetventile: Magnetimpulsventile 
+p3_2_10.ct 10 Magnetventile: Vorsteuerung 
+p3_2_11.ct 11 Signalsteuerung: Schaltungssystematik 
+p3_2_12.ct 12 Signalsteuerung: Verbindungsprogrammierte Steuerungen 
+p3_2_13.ct 13 Signalsteuerung: Speicherprogrammierte Steuerungen 
