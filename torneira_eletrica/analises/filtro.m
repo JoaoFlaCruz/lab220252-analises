@@ -6,7 +6,7 @@
 %--------------------------------------------------------------------------
 
 %% 1. Inicialização e Definição de Parâmetros
-clear; close all; clc;
+%clear; close all; clc;
 
 % Constantes do sistema fornecidas pelo usuário
 Tau = 7.7779;
@@ -40,7 +40,7 @@ disp(H_s);
 % Carrega os dados do arquivo 'cassio.txt'.
 % A função readtable é utilizada para ler o arquivo de forma estruturada.
 try
-    dados = readtable('./torneira_eletrica/analises/cassio_dinamico2.txt', 'Delimiter', ' ', 'DecimalSeparator', ',');
+    dados = readtable('./cassio_dinamico2.txt', 'Delimiter', ' ', 'DecimalSeparator', ',');
 catch
     error('O arquivo cassio.txt não foi encontrado. Verifique o caminho.');
 end
