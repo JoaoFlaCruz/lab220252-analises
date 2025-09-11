@@ -6,7 +6,7 @@ alpha = 0.1;
 
 % Configurações de ruídos
 Np = 10^(-9);
-Nm = 10^(-9);
+Nm = 10^(-5);
 Ts = 0.02;
 
 % Configurações de Bias
