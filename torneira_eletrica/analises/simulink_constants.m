@@ -13,6 +13,9 @@ Ts = 0.02;
 Ubar = 0.5;
 Ybar = 0.1;
 
+Ubar = 5;
+Ybar = 3.47;
+
 % Configurações de atraso
 Delay = 0.1;
 
